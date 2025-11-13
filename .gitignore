@@ -1,3 +1,10 @@
 /data
 /my_dataset
 /dataset
+*.txt
+*.png
+*.jpg
+*.jpeg
+*.ttf
+/split_files
+split.ipynb
