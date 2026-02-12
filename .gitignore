@@ -7,7 +7,6 @@
 *.jpeg
 *.ttf
 /split_files
-split.ipynb
 /data_large
 /data_small
 /corpus
